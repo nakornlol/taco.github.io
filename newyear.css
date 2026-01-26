@@ -1,0 +1,16 @@
+.section1 {
+    background-image: url('https://png.pngtree.com/background/20250426/original/pngtree-vibrant-party-background-with-colorful-streamers-and-festive-decorations-picture-image_16395509.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+    color: white;
+    padding: 50px;
+}
+.section2 {
+    background-image: url('https://static.vecteezy.com/system/resources/thumbnails/056/845/305/small/birthday-party-background-with-cupcake-balloons-and-confetti-photo.jpeg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+    color: white;
+    padding: 50px;
+}
