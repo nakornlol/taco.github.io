@@ -1,5 +1,8 @@
 body{
   padding: 25px;
+  background-image: url('https://lh3.googleusercontent.com/gps-cs-s/AHVAweoRDjia86boy-cckWYVAOPhb_utuRMWfP_2IbsL0MWME_Qp88LKBD7FKZv97NH8pcmF4s3GaSCWVPclZOslBEAJS0hnXngkgFPlHr5D-q2k-tro16hrJsTBFp-sdA5m1jXKXSMtEA=s680-w680-h510-rw');
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 .title {
 	color: #5C6AC4;
@@ -26,4 +29,8 @@ section{
   margin:30px;
   background-color: #87CEFA;
   border-radius: 15px;
+  padding:10px;
+}
+sections{
+  display: flex;
 }
