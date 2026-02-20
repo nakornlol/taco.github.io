@@ -11,8 +11,19 @@ body{
   background-color: aquamarine;
 }
 .header2{
+  font-family: "Noto Sans Thai", sans-serif;
+  margin:10px;
+  padding:10px;
   text-align: center;
-  font-size: 10px;
+  font-size: 20px;
   background-color: orange;
   display: inline-block;
+  border-radius: 5px;
+  display: flex;
+}
+section{
+  font-family: "Noto Sans Thai", sans-serif;
+  margin:30px;
+  background-color: #87CEFA;
+  border-radius: 15px;
 }
